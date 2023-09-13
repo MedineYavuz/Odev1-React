@@ -10,6 +10,6 @@ async function async(number){
 
 async(1);
 
-const number="user ID";
+
 
 // export default async;
